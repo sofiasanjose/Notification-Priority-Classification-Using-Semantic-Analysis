@@ -58,4 +58,4 @@ Thumbs.db
 # Model Files (uncomment if you don't want to track large model files)
 # models/*.pkl
 # models/*.pt
-# models/*.h5
+# models/*.h5.venv/
