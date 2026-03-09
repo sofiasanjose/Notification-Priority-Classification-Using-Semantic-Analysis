@@ -1,46 +1,110 @@
-timestamp,app_name,notification_type,response_time_sec,productivity_score,is_work_hours,category
-2025-01-01 12:24:00,Teams,Email,242,7,0,Utility
-2025-01-01 14:44:00,Teams,Email,30,1,0,Work
-2025-01-01 16:22:00,YouTube,Email,60,9,1,Work
-2025-01-01 11:01:00,Gmail,Ping,139,9,1,Entertainment
-2025-01-01 14:18:00,LinkedIn,Message,112,10,0,Entertainment
-2025-01-01 15:35:00,Slack,Message,109,6,0,Work
-2025-01-01 11:32:00,Twitter,Reminder,161,5,0,Work
-2025-01-01 12:07:00,Gmail,Ping,186,10,0,Work
-2025-01-01 12:09:00,Instagram,Reminder,197,1,1,Social
-2025-01-01 13:04:00,Messenger,Reminder,234,5,1,Entertainment
-2025-01-01 11:29:00,LinkedIn,Email,157,3,1,Social
-2025-01-01 11:18:00,Teams,Ping,160,5,0,Social
-2025-01-01 17:11:00,LinkedIn,Email,224,10,0,Social
-2025-01-01 10:49:00,WhatsApp,Reminder,114,4,1,Work
-2025-01-01 09:50:00,YouTube,Reminder,233,5,0,Utility
-2025-01-01 15:28:00,Gmail,Ping,207,5,0,Entertainment
-2025-01-01 08:14:00,WhatsApp,Email,112,1,1,Entertainment
-2025-01-01 15:12:00,Instagram,Ping,246,7,0,Entertainment
-2025-01-01 08:09:00,Teams,Alert,195,5,1,Utility
-2025-01-01 16:10:00,LinkedIn,Message,225,10,1,Social
-2025-01-01 10:24:00,Teams,Reminder,171,7,0,Updates
-2025-01-01 09:37:00,Twitter,Ping,147,1,0,Work
-2025-01-01 14:03:00,Messenger,Message,84,1,0,Work
-2025-01-01 14:08:00,Slack,Ping,285,8,1,Entertainment
-2025-01-01 16:44:00,Teams,Email,233,7,1,Utility
-2025-01-01 12:24:00,WhatsApp,Ping,257,9,1,Social
-2025-01-01 13:59:00,Messenger,Email,19,4,0,Updates
-2025-01-01 14:43:00,YouTube,Message,269,1,1,Entertainment
-2025-01-01 12:33:00,Teams,Email,49,3,0,Entertainment
-2025-01-01 13:00:00,Teams,Message,239,2,1,Work
-2025-01-01 09:26:00,Instagram,Ping,275,4,1,Utility
-2025-01-01 08:19:00,YouTube,Ping,210,3,1,Work
-2025-01-01 17:35:00,LinkedIn,Ping,67,5,0,Entertainment
-2025-01-01 14:38:00,LinkedIn,Ping,143,2,1,Social
-2025-01-01 17:49:00,Calendar,Email,8,1,0,Work
-2025-01-01 15:51:00,Instagram,Message,144,3,0,Updates
-2025-01-01 15:38:00,Gmail,Alert,125,6,0,Entertainment
-2025-01-01 15:55:00,Calendar,Email,250,6,1,Social
-2025-01-01 08:20:00,Slack,Reminder,77,9,0,Work
-2025-01-01 13:43:00,Teams,Message,27,2,0,Updates
-2025-01-01 10:27:00,Slack,Message,61,9,0,Entertainment
-2025-01-01 13:32:00,WhatsApp,Reminder,208,4,0,Entertainment
-2025-01-01 13:14:00,WhatsApp,Email,154,2,1,Work
-2025-01-01 10:18:00,Teams,Email,261,8,0,Entertainment
-2025-01-01 15:10:00,WhatsApp,Ping,13,7,0,Updates
+timestamp,app_name,notif_type,notif_content,urgency
+2025-02-07T22:27:35+00:00,Clock,reminder,Alarm: Wake up — 6:30 AM,high
+08/03/2026 16:00:00,Too Good To Go,reminder,Reminder! Your food will be ready for collection soon. Enjoy!,medium
+07/03/2026 09:00:00,BBVA,alert,Your direct debit for electricity bill of <AMOUNT> has been processed.,medium
+08/03/2026 14:56:00,WhatsApp,message,We are going to have lunch around here,low
+2025-03-03T06:57:56+00:00,Amazon,ping,Delivery attempted — no one home. Reschedule or pick up at locker.,medium
+2024-12-29T05:34:13+00:00,Reminders,reminder,Return library books by end of week.,low
+2025-01-31T01:58:18+00:00,Apple Health,ping,"You've reached your daily step goal of 10,000 steps! 🎉",low
+08/03/2026 12:43:00,WhatsApp,message,This is ready,low
+04/03/2026 20:34:00,Whatsapp,message,thanks for letting me know,low
+2025-02-16T13:18:11+00:00,Notion,reminder,Shared doc 'Sprint Plan' was updated by 3 teammates.,low
+2025-01-06T13:09:17+00:00,Calendar,reminder,Reminder: Call insurance company today before 5 PM.,medium
+2025-02-21T12:14:31+00:00,Messages,message,Package delivered: left at front door at 2:14 PM.,medium
+2025-01-17T11:45:07+00:00,WhatsApp,message,Work Group: The client meeting has been moved to 3 PM today. Please update your calendars.,high
+2025-01-19T04:40:32+00:00,Gmail,email,Reminder: Your passport expires in 30 days. Renew now to avoid travel disruptions.,medium
+07/03/2026 16:54:00,Viber,message,You have additional new messages,low
+2025-01-17T02:08:34+00:00,Chase Bank,alert,"Suspicious transaction detected: <AMOUNT>,340.00 charge at an overseas merchant. Tap to review and freeze your card.",high
+08/03/2026 23:42:00,WhatsApp,message,Will keep everyone updated!,low
+2025-01-09T03:34:15+00:00,WhatsApp,message,"<NAME>: Call me when you get this, it's important.",high
+2025-02-01T15:00:42+00:00,Chase Bank,alert,Your card ending in <CODE> was declined 3 times in the last 5 minutes. Please verify your account.,high
+2025-02-03T12:08:24+00:00,Revolut,ping,You spent <AMOUNT> at Zara. Remaining budget: <AMOUNT>.,low
+09/03/2026 02:43:00,Calendar,reminder,NO SUGAR - Today,low
+2024-12-19T16:01:35+00:00,Facebook,ping,Someone messaged you about your listing: 'Is the bike still available?',medium
+2024-12-11T15:22:52+00:00,Gmail,email,Reminder: Your passport expires in 30 days. Renew now to avoid travel disruptions.,medium
+2024-12-25T02:47:44+00:00,Gmail,email,Your order #ORD-<CODE> has shipped and will arrive Thursday.,medium
+08/03/2026 23:54:00,Whatsapp,message,<NAME>: Sticker,low
+09/03/2026 01:43:00,Fitness,ping,Check your ring: Check out your progress for today.,low
+2025-02-07T19:31:50+00:00,Notion,reminder,Shared doc 'Sprint Plan' was updated by 3 teammates.,low
+2025-01-11T16:54:34+00:00,PayPal,alert,We've limited your account due to unusual activity. Verify your identity to restore access.,high
+07/03/2026 21:09:00,Fitness,ping,<NAME> closed their Move ring,low
+2025-03-07T10:22:40+00:00,Zoom,reminder,Meeting recording is now available: 'Team Standup — Mar 6'.,low
+08/03/2026 18:37:00,Messages,alert,Message Failed to Send: The message to <NUMBER> failed to send.,high
+07/03/2026 20:09:00,Whatsapp,message,We just left our apartment we’ll be there soon,medium
+2025-03-03T01:52:59+00:00,Chase Bank,ping,Payment of <AMOUNT> to Netflix processed successfully.,low
+09/03/2026 13:29:00,Whatsapp,message,Let me know if they do!,medium
+2024-12-18T18:40:46+00:00,Telegram,message,"Crypto Alert Bot: ETH just hit your target price of <AMOUNT>,000.",medium
+07/03/2026 21:09:00,Medication Reminder,reminder,Time to log your 8:15 PM medications,high
+2025-01-26T01:39:55+00:00,WhatsApp,message,"Tom: Hey, can you review the draft before end of day?",medium
+2025-01-02T02:43:36+00:00,iOS,alert,"Amber Alert: Black Toyota Camry, license plate XYZ-<CODE>. Last seen downtown.",high
+2024-12-14T01:14:08+00:00,Reminders,reminder,Water the plants.,low
+2025-01-30T06:25:27+00:00,Chase Bank,alert,"Suspicious transaction detected: <AMOUNT>,340.00 charge at an overseas merchant. Tap to review and freeze your card.",high
+2025-02-16T19:15:48+00:00,Slack,message,<NAME>: Can you join a quick call? Something urgent came up.,high
+08/03/2026 14:57:00,WhatsApp,message,Did he become his friend?,low
+2025-02-11T22:14:27+00:00,LinkedIn,message,"Recruiter: Hi, I have an exciting opportunity that matches your profile. Are you open to a quick chat?",medium
+2025-03-07T22:11:14+00:00,iOS,alert,"Amber Alert: Black Toyota Camry, license plate XYZ-<CODE>. Last seen downtown.",high
+2025-02-04T18:05:24+00:00,Gmail,email,"Password changed successfully on your Google account. If this wasn't you, recover your account immediately.",high
+08/03/2026 22:20:00,Instagram,ping,<NAME> replied to your story,low
+08/03/2026 20:02:00,Whatsapp,message,U saw the sales update anyways,low
+2024-12-18T15:35:31+00:00,WhatsApp,message,"<NAME>: Call me when you get this, it's important.",high
+09/03/2026 04:12:00,Instagram,message,I'm going to cry,low
+2025-02-02T04:38:05+00:00,Chase Bank,alert,Your checking account balance has dropped below <AMOUNT> Add funds to avoid overdraft fees.,high
+2024-12-20T23:55:09+00:00,Clock,reminder,Your 25-minute focus timer has ended.,medium
+07/03/2026 12:00:00,Revolut,ping,Your monthly statement for February is ready to view.,low
+2025-01-31T01:53:02+00:00,CNN,ping,Breaking: National emergency declared following severe storm system.,high
+2025-01-23T06:29:18+00:00,Outlook,email,IT Security: Mandatory security training due by Friday. Failure to complete may result in account suspension.,high
+2025-01-27T01:48:12+00:00,MyFitnessPal,reminder,You haven't logged lunch yet. Stay on track!,low
+08/03/2026 20:35:00,iCloud,alert,You've reached your storage limit. You won't be able to store new photos in iCloud. Upgrade now or manage storage to continnue syncing your photos.,medium
+08/03/2026 20:00:00,Whatsapp,message,Meeting now no?,high
+2024-12-27T02:25:59+00:00,Slack,message,Team: Great job on the presentation today everyone!,low
+2025-01-25T07:18:49+00:00,Messages,message,"Hi, this is Dr. Patel's office. Your appointment is tomorrow at 10 AM. Please confirm.",high
+2025-03-07T04:40:43+00:00,Instagram,message,johndoe and 142 others liked your photo.,low
+2025-02-14T14:40:43+00:00,Calendar,reminder,Event starting soon: NLP Project submission deadline in 1 hour.,high
+08/03/2026 09:00:00,Gmail,email,Your Sunday afternoon order with Uber – order placed,medium
+2025-02-26T10:30:01+00:00,Facebook,ping,Someone messaged you about your listing: 'Is the bike still available?',medium
+09/03/2026 03:00:00,Cal AI,reminder,Make sure to log your weight! Track your progress for this week,medium
+2024-12-22T00:34:31+00:00,Apple News,ping,5 things to do this weekend in your city.,low
+2024-12-19T15:36:09+00:00,GitHub,alert,Dependabot: Critical vulnerability found in your dependency (CVE-<CODE>-<CODE>).,high
+2024-12-26T02:48:19+00:00,WhatsApp,message,"<NAME>: Call me when you get this, it's important.",high
+2025-01-26T09:18:42+00:00,FlightAware,alert,Flight UA202 delayed by 2 hours. New departure: 8:45 PM.,high
+08/03/2026 16:45:00,WhatsApp,message,When are we paying,medium
+2024-12-11T19:22:34+00:00,Gmail,email,"Password changed successfully on your Google account. If this wasn't you, recover your account immediately.",high
+2025-02-03T15:18:02+00:00,Messages,message,Your verification code is <CODE>. Valid for 10 minutes. Do not share this.,high
+05/03/2026 09:00:00,Gmail,email,Internship Alert Fresh Opportunities,medium
+07/03/2026 08:00:00,Revolut,alert,Recurring payment of <AMOUNT> to Spotify failed. Update your payment method.,high
+09/03/2026 03:40:00,LinkedIn,ping,<NAME> is hiring.,medium
+2025-02-17T12:19:46+00:00,Gmail,email,Netflix: Your new invoice for <AMOUNT> is ready.,low
+08/03/2026 09:15:00,Revolut,alert,Your card was used for a payment of <AMOUNT> at Zara Madrid. Not you? Freeze your card now.,high
+2025-01-02T11:24:20+00:00,Gmail,email,LinkedIn: You have 3 new connection requests.,low
+2025-02-02T17:28:27+00:00,Twitter/X,message,Official Twitter: Your account has been flagged for review. Reply to appeal.,high
+2024-12-11T02:31:33+00:00,Slack,message,DevOps Bot: Production server CPU usage at 98%. Immediate action required.,high
+2024-12-24T20:14:54+00:00,Messages,message,"Hey, are you coming to the party on Saturday?",low
+2025-02-24T13:10:34+00:00,DoorDash,ping,Your Dasher is 2 minutes away!,high
+2024-12-13T07:38:53+00:00,iOS,alert,Your iPhone storage is almost full (1.2 GB remaining). Manage storage.,medium
+2024-12-19T11:59:42+00:00,Slack,message,<NAME>: Can you join a quick call? Something urgent came up.,high
+2025-01-05T18:04:54+00:00,Google Maps,ping,You're approaching your destination. Parking available nearby.,medium
+2025-02-08T06:26:48+00:00,WhatsApp,message,Sarah: Haha that meme you sent was so funny 😂,low
+08/03/2026 18:49:00,Reddit,message,I need to sell one player,low
+2025-01-27T15:49:12+00:00,Revolut,ping,You spent <AMOUNT> at Zara. Remaining budget: <AMOUNT>.,low
+2025-02-15T18:07:28+00:00,Slack,message,DevOps Bot: Production server CPU usage at 98%. Immediate action required.,high
+2025-01-17T18:20:25+00:00,Clock,reminder,Alarm: Take out the trash before 8 AM pickup.,high
+08/03/2026 19:13:00,WhatsApp,message,Hey <NAME>,low
+2025-01-18T17:42:42+00:00,Reminders,reminder,Water the plants.,low
+2024-12-29T03:31:59+00:00,Clock,reminder,Pasta timer: 12 minutes done.,high
+08/03/2026 19:47:00,Whatsapp,message,Just wanted to confirm tomorrow’s beer!!,medium
+2025-02-14T05:35:46+00:00,Revolut,ping,You spent <AMOUNT> at Zara. Remaining budget: <AMOUNT>.,low
+2025-02-14T03:01:21+00:00,iMessage,message,Dad: Just got to the airport. My flight lands at 6. Can you pick me up?,high
+08/03/2026 11:45:00,Revolut,alert,You have spent 90% of your <AMOUNT> monthly budget for Eating Out.,medium
+2025-03-05T23:25:08+00:00,Headspace,reminder,Don't forget your daily meditation session.,low
+2025-01-13T18:06:43+00:00,Telegram,message,"Crypto Alert Bot: ETH just hit your target price of <AMOUNT>,000.",medium
+08/03/2026 19:54:00,Whatsapp,message,See you tomorrow then!!!,low
+2024-12-25T01:36:11+00:00,Gmail,email,LinkedIn: You have 3 new connection requests.,low
+2025-02-25T13:33:19+00:00,Headspace,reminder,Don't forget your daily meditation session.,low
+08/03/2026 23:12:00,TikTok,ping,<NAME> shared a video,low
+2024-12-14T10:25:00+00:00,Gmail,email,Your flight UA4421 to New York tomorrow has been cancelled. Click to rebook.,high
+2025-01-07T10:41:29+00:00,Revolut,alert,Unusual login attempt from Romania detected. Was this you?,high
+08/03/2026 09:00:00,Gmail,email,Your Saturday evening trip with Uber receipt,low
+2025-01-29T06:25:16+00:00,Airbnb,ping,"Booking confirmed: Studio in Barcelona, Jun 12–18. Check-in instructions sent.",medium
+2024-12-10T07:34:43+00:00,Messages,message,"Hi, this is Dr. Patel's office. Your appointment is tomorrow at 10 AM. Please confirm.",high
+2024-12-14T13:41:05+00:00,MyFitnessPal,reminder,You haven't logged lunch yet. Stay on track!,low
+2025-03-01T19:27:58+00:00,Clock,reminder,Your 25-minute focus timer has ended.,medium

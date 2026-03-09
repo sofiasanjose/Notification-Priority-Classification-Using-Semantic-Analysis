@@ -26,9 +26,7 @@ env/
 ENV/
 env.bak/
 venv.bak/
-
-# Kaggle API Credentials
-kaggle.json
+.venv/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
@@ -49,6 +47,20 @@ kaggle.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Model Files (when added)
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+
+# Results and Logs
+results/*.log
+results/wandb/
+results/tensorboard/
+
+# API Credentials (historical - not needed for curated dataset)
+# kaggle.json
 
 # Temporary Files
 *.tmp
