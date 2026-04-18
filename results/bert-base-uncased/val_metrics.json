@@ -1,0 +1,49 @@
+{
+  "model": "bert-base-uncased",
+  "best_val_macro_f1": 0.8435,
+  "test_macro_f1": 0.9135,
+  "epochs_run": 5,
+  "hyperparams": {
+    "model_name": "bert-base-uncased",
+    "data_dir": "data/processed",
+    "output_dir": "results/bert-base-uncased",
+    "epochs": 5,
+    "batch_size": 16,
+    "lr": 2e-05,
+    "max_len": 64,
+    "patience": 2,
+    "seed": 42
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.0662,
+      "val_loss": 0.9279,
+      "val_macro_f1": 0.6656
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.7044,
+      "val_loss": 0.5373,
+      "val_macro_f1": 0.805
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.3545,
+      "val_loss": 0.3653,
+      "val_macro_f1": 0.8435
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.1917,
+      "val_loss": 0.3279,
+      "val_macro_f1": 0.8328
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.1296,
+      "val_loss": 0.3169,
+      "val_macro_f1": 0.8413
+    }
+  ]
+}

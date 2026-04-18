@@ -1,0 +1,49 @@
+{
+  "model": "roberta-base",
+  "best_val_macro_f1": 0.951,
+  "test_macro_f1": 0.8913,
+  "epochs_run": 5,
+  "hyperparams": {
+    "model_name": "roberta-base",
+    "data_dir": "data/processed",
+    "output_dir": "results/roberta-base",
+    "epochs": 5,
+    "batch_size": 16,
+    "lr": 2e-05,
+    "max_len": 64,
+    "patience": 2,
+    "seed": 42
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.0781,
+      "val_loss": 0.999,
+      "val_macro_f1": 0.4978
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.7388,
+      "val_loss": 0.3877,
+      "val_macro_f1": 0.8567
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.3165,
+      "val_loss": 0.2527,
+      "val_macro_f1": 0.9222
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.1669,
+      "val_loss": 0.255,
+      "val_macro_f1": 0.9138
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.1186,
+      "val_loss": 0.2382,
+      "val_macro_f1": 0.951
+    }
+  ]
+}
