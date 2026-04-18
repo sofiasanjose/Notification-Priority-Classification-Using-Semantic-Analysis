@@ -76,3 +76,10 @@ results/tensorboard/
 # models/*.pkl
 # models/*.pt
 # models/*.h5.venv/
+
+# Demo app
+demo/backend/credentials.json
+demo/backend/token.json
+demo/frontend/node_modules/
+demo/frontend/dist/
+demo/frontend/.vite/

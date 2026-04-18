@@ -19,8 +19,6 @@ ID2LABEL  = {v: k for k, v in LABEL2ID.items()}
 NUM_LABELS = 3
 
 
-
-
 class NotificationDataset(Dataset):
     """Tokenises a list of notification texts + urgency labels."""
 
