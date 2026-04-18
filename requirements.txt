@@ -11,6 +11,9 @@ evaluate>=0.4.0
 # Data analysis and preprocessing  
 pandas>=2.0.0
 
+# Visualisation extras
+seaborn>=0.12.0
+
 # Development and exploration
 jupyter>=1.0.0
 ipykernel>=6.25.0

@@ -1,0 +1,86 @@
+% ============================================================
+% Week 8 — Modeling
+% Replace the empty \section{Results} placeholder.
+%
+% Upload to Overleaf:
+%   fig10_baseline_confusion_matrix.pdf
+% ============================================================
+
+\section{Results}
+\label{sec:results}
+
+\subsection{Baseline Model}
+
+As a reference, we trained a Logistic Regression classifier
+(\texttt{class\_weight='balanced'}, $C=1.0$) on the TF-IDF features from
+Section~III-G. Table~\ref{tab:baseline_results} shows the test-set
+results (109~notifications).
+
+\begin{table}[!t]
+\centering
+\caption{Baseline (TF-IDF + Logistic Regression) test-set results.}
+\label{tab:baseline_results}
+\begin{tabular}{lccc}
+\hline
+\textbf{Class} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} \\
+\hline
+High   & 0.88 & 1.00 & 0.94 \\
+Medium & 0.72 & 0.79 & 0.75 \\
+Low    & 0.85 & 0.69 & 0.76 \\
+\hline
+\textbf{Macro avg} & 0.82 & 0.83 & 0.82 \\
+\hline
+\multicolumn{3}{l}{\textbf{Accuracy}} & 0.83 \\
+\multicolumn{3}{l}{\textbf{Macro-F1}} & 0.8185 \\
+\hline
+\end{tabular}
+\end{table}
+
+The baseline achieves a macro-F1 of 0.8185 and 82.6\% accuracy.
+High-urgency notifications are easiest to classify (F1\,=\,0.94) thanks
+to distinctive keywords (\textit{minutes}, \textit{code}), while Medium
+and Low are harder to separate (F1\,=\,0.75 and 0.76). The confusion
+matrix (Fig.~\ref{fig:baseline_cm}) shows the main errors are Low
+predicted as Medium (9~cases) and Medium predicted as Low (5~cases).
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=0.85\columnwidth]{fig10_baseline_confusion_matrix.pdf}
+\caption{Baseline confusion matrix on the test set.}
+\label{fig:baseline_cm}
+\end{figure}
+
+\subsection{Transformer Models}
+
+We fine-tune \texttt{bert-base-uncased}~\cite{devlin2019} and
+\texttt{roberta-base}~\cite{liu2019} using
+\texttt{AutoModelForSequenceClassification}~\cite{wolf2020}.
+Table~\ref{tab:hyperparams} lists the hyperparameters.
+
+\begin{table}[!t]
+\centering
+\caption{Transformer fine-tuning hyperparameters.}
+\label{tab:hyperparams}
+\begin{tabular}{ll}
+\hline
+\textbf{Parameter} & \textbf{Value} \\
+\hline
+Max sequence length     & 64 tokens \\
+Batch size              & 16 \\
+Learning rate           & $2 \times 10^{-5}$ \\
+Optimiser               & AdamW (weight decay 0.01) \\
+LR schedule             & Linear with 10\% warmup \\
+Max epochs              & 5 \\
+Early stopping patience & 2 (on val macro-F1) \\
+Loss function           & Cross-entropy, class-weighted \\
+Gradient clipping       & max norm = 1.0 \\
+\hline
+\end{tabular}
+\end{table}
+
+Class weights are set to $w_c = N / (3 \cdot n_c)$ to counteract the
+mild imbalance. The best checkpoint (by val macro-F1) is saved and
+re-evaluated on the test set, recording per-sample softmax probabilities
+for the ranking evaluation. Training runs on the IE University HPC
+cluster (NVIDIA RTX~6000 Ada, 48\,GB). BERT and RoBERTa results will be
+added once the cluster job completes.
