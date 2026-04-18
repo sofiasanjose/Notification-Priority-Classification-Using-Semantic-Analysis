@@ -741,3 +741,21 @@ Networking cocktail at 20:00 Register on IE Connects: <URL> *Registration does n
 09/03/2026 16:21:00,Whatsapp,message,Let's go,low
 09/03/2026 16:21:00,Whatsapp,message,I am because in Spain “bareto” is just a diminutive for “bar”,low
 09/03/2026 16:22:00,Whatsapp,message,Hahahahah I assumed that,low
+10/03/2026 09:14:00,Gmail,email,Not urgent at all — just wanted to flag this for when you have a spare moment.,low
+10/03/2026 09:31:00,iMessage,message,No rush on this one. Reply whenever you get a chance!,low
+10/03/2026 10:02:00,Slack,message,No action needed from you — just keeping you in the loop.,low
+10/03/2026 10:15:00,Gmail,email,This isn't time-sensitive. Please don't worry about responding quickly.,low
+10/03/2026 10:44:00,Reminders,reminder,Not critical — just a nice-to-have if you get around to it this week.,low
+10/03/2026 11:03:00,Whatsapp,message,Don't stress! There's absolutely no urgency here whenever you're free.,low
+10/03/2026 11:22:00,Apple News,ping,Nothing alarming in today's market update — stocks closed stable.,low
+10/03/2026 11:45:00,Reddit,message,No worries if you can't make the meetup — it's completely optional.,low
+10/03/2026 12:01:00,Slack,message,Not an emergency but worth a quick look before end of week.,medium
+10/03/2026 12:18:00,Gmail,email,Not critical yet but we should probably sync on the budget before Friday.,medium
+10/03/2026 12:35:00,Calendar,reminder,No hard deadline but aim to finish the draft by Thursday if possible.,medium
+10/03/2026 12:52:00,Whatsapp,message,Not super urgent but can we find 15 mins to chat about the project plan?,medium
+10/03/2026 13:10:00,Jira,alert,This is not a minor issue — production is returning 500 errors for all users.,high
+10/03/2026 13:28:00,Chase Bank,alert,This is not just a warning: your account will be suspended in 24 hours unless you verify your identity.,high
+10/03/2026 13:45:00,iOS,alert,Not a drill: device storage critically full. Apps may crash immediately.,high
+10/03/2026 14:02:00,Slack,alert,Don't ignore this — the deployment pipeline has not recovered for over 2 hours.,high
+10/03/2026 14:20:00,macOS,alert,Don't dismiss: your disk is not encrypted and contains sensitive files. Enable FileVault now.,high
+10/03/2026 14:38:00,Gmail,email,This is not something that can wait — the client is requesting a response by 5 PM today.,high
