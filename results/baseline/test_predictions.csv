@@ -1,110 +1,113 @@
 text,true_label,pred_label,prob_low,prob_medium,prob_high
-Someone replied to your comment in r/MachineLearning.,low,low,0.8286042186141324,0.08689928366617791,0.08449649771968983
-Your iPhone storage is almost full (1.2 GB remaining). Manage storage.,medium,medium,0.17521564145996832,0.669997940281618,0.15478641825841383
-5 things to do this weekend in your city.,low,low,0.3832644371176096,0.2462299101011172,0.37050565278127323
-Your HRV interpretation Report is ready. Tap to view the report.,low,low,0.47939499121576185,0.2138049111991542,0.3068000975850838
-Any update,medium,medium,0.390330847793065,0.45146277892654535,0.1582063732803897
-Family Group: Grandma is in the hospital. Please call when you can.,high,high,0.12452937338840789,0.2023162635683465,0.6731543630432456
-Your flight UA4421 to New York tomorrow has been cancelled. Click to rebook.,high,high,0.18448702840159636,0.07562247837562217,0.7398904932227814
-Thanks,low,low,0.5085533708761498,0.2614461000540801,0.23000052906977017
-Unusual login attempt from Romania detected. Was this you?,high,high,0.1469344118243619,0.11441539113343904,0.7386501970421991
-Family Group: Grandma is in the hospital. Please call when you can.,high,high,0.12452937338840789,0.2023162635683465,0.6731543630432456
-"Suspicious transaction detected: <AMOUNT>,340.00 charge at an overseas merchant. Tap to review and freeze your card.",high,high,0.1279097361621981,0.17906953414336213,0.6930207296944397
-Software update available: iOS 18.3.1. Update for important security fixes.,medium,medium,0.18918269287341885,0.6064388117273949,0.20437849539918634
-i can host it myself if not,low,high,0.3093340773472219,0.3307627573749526,0.35990316527782545
-<NAME> Larroque removed Byran,low,low,0.7341767808309653,0.16002959914715723,0.10579362002187771
-Her email account has been hacked,high,high,0.27608364561609544,0.15495486823492455,0.56896148614898
-Software update available: iOS 18.3.1. Update for important security fixes.,medium,medium,0.18918269287341885,0.6064388117273949,0.20437849539918634
-Your flight UA4421 to New York tomorrow has been cancelled. Click to rebook.,high,high,0.18448702840159636,0.07562247837562217,0.7398904932227814
-Alarm: Take out the trash before 8 AM pickup.,high,high,0.1553547856539281,0.14997330563584496,0.694671908710227
-hey,low,low,0.6343138075222965,0.2229838219332128,0.14270237054449056
-Way to go! You were consistent with your sleep and wake-up time last night. Keep it up to improve the quality of your sleep.,low,medium,0.3422059406746943,0.47689450251889465,0.18089955680641098
-Family Group: Grandma is in the hospital. Please call when you can.,high,high,0.12452937338840789,0.2023162635683465,0.6731543630432456
-Sent a post by <NAME>,low,low,0.786059971164339,0.12612345183909004,0.08781657699657096
-Dependabot: Critical vulnerability found in your dependency (CVE-<CODE>-<CODE>).,high,high,0.12223943334584486,0.08838786793938945,0.7893726987147658
-Sarah: Haha that meme you sent was so funny 😂,low,low,0.820435601970277,0.11076868402825482,0.06879571400146822
-"Booking confirmed: Studio in Barcelona, Jun 12–18. Check-in instructions sent.",medium,medium,0.25283949654162846,0.5519791107872846,0.195181392671087
-Low battery: 10% remaining. Connect to power.,high,high,0.2988671763423804,0.12325603765684978,0.5778767860007697
-Your trip receipt: <AMOUNT> to Downtown. Rate your driver.,low,low,0.7391979125158074,0.08673126534937715,0.17407082213481548
-I am because in Spain “bareto” is just a diminutive for “bar”,low,medium,0.3006702642870016,0.3999695162157441,0.29936021949725433
-Thank you! You're confirmed for March 19th at 8pm. We'll reach out 24h before the dinner with the address and further details,medium,medium,0.2385356200396276,0.6607161712487432,0.10074820871162936
-Flight UA202 delayed by 2 hours. New departure: 8:45 PM.,high,high,0.14397921945244702,0.1855544176448627,0.6704663629026903
-"F1 hits Australia. New cars, new drivers, more action. Live now",low,high,0.36070648275085027,0.2607502188208335,0.37854329842831624
-Traffic alert: Accident ahead. Rerouting — adds 18 minutes to your trip.,high,high,0.1898756583992488,0.12193075525497385,0.6881935863457774
-You reached your new Move goal of 500 Calories. Nice work!,low,medium,0.2290846027664044,0.5892931945044501,0.18162220272914562
-Low battery: 10% remaining. Connect to power.,high,high,0.2988671763423804,0.12325603765684978,0.5778767860007697
-Hello <NAME>!,low,low,0.7341767808309653,0.16002959914715723,0.10579362002187771
-HAHAHAHA WHAT?,low,low,0.5085533708761498,0.2614461000540801,0.23000052906977017
-Breaking: National emergency declared following severe storm system.,high,high,0.2266323214247225,0.08759946022976799,0.6857682183455095
-<NAME>: Happy birthday!! 🎉🎂,low,low,0.840378479468581,0.08563139854515592,0.07399012198626301
-Hey <NAME>! Hope you had a great weekend!,low,low,0.6562720799162615,0.24023210375779683,0.10349581632594165
-Your flight UA4421 to New York tomorrow has been cancelled. Click to rebook.,high,high,0.18448702840159636,0.07562247837562217,0.7398904932227814
-Alarm: Wake up — 6:30 AM,high,high,0.11630715458608872,0.13531845362019626,0.748374391793715
-Hahahahah I assumed that,low,low,0.4411739793434576,0.43279611535238094,0.12602990530416153
-Wow! We'll eat here when you're back,low,medium,0.2983902487622639,0.4733410082937217,0.22826874294401434
-Your bedtime is set for 11:00 PM. Wind Down is starting soon.,medium,medium,0.10236137633361854,0.5178123882011338,0.37982623546524763
-Time to log your 8:00 AM medications,high,high,0.12019544973351164,0.07503126425604693,0.8047732860104415
-All three of you have these notifications. To write down [image],medium,low,0.4398062300853439,0.4083021214678759,0.15189164844678024
-Low battery: 10% remaining. Connect to power.,high,high,0.2988671763423804,0.12325603765684978,0.5778767860007697
-5 things to do this weekend in your city.,low,low,0.3832644371176096,0.2462299101011172,0.37050565278127323
-"Invitation: Onboarding prueba piloto Ectos x Oryon Technology @ Wed Mar 11, <CODE> 12pm - 12:30pm (CET) (<EMAIL>)",medium,medium,0.32441474836569234,0.36010418176723263,0.31548106986707497
-Don't forget your daily meditation session.,low,low,0.7320850525561804,0.16695652871459402,0.1009584187292255
-IT Security: Mandatory security training due by Friday. Failure to complete may result in account suspension.,high,high,0.21026866725716467,0.19090930140015996,0.5988220313426753
-<NAME>: Happy birthday!! 🎉🎂,low,low,0.840378479468581,0.08563139854515592,0.07399012198626301
-Rihanna's Beverly Hills mansion struck by gunfire woman arrested: Police,low,low,0.523439774416934,0.23789426793395013,0.23866595764911583
-Meeting recording is now available: 'Team Standup — Mar 6'.,low,low,0.7710627162738535,0.1397218190189552,0.08921546470719131
-New job match: Senior ML Engineer at Google — 95% match. Apply before it closes.,medium,medium,0.13691779876699922,0.7696347943836298,0.093447406849371
-"Booking confirmed: Studio in Barcelona, Jun 12–18. Check-in instructions sent.",medium,medium,0.25283949654162846,0.5519791107872846,0.195181392671087
-Your verification code is <CODE>. Valid for 10 minutes. Do not share this.,high,high,0.13151176302393505,0.12857693183040805,0.7399113051456568
-Breaking: Magnitude 6.8 earthquake strikes coastal region. Tsunami warning issued.,high,high,0.14923314561231474,0.1089912047431899,0.7417756496444954
-Your order #ORD-<CODE> has shipped and will arrive Thursday.,medium,medium,0.3290444357010498,0.53550017625805,0.13545538804090018
-Your meeting with the dentist starts in 30 minutes.,high,high,0.12847203631527254,0.1324416840231915,0.7390862796615358
-Okay let me know and I will pay,medium,low,0.564697081919151,0.2760884368285148,0.159214481252334
-Alarm: Wake up — 6:30 AM,high,high,0.11630715458608872,0.13531845362019626,0.748374391793715
-I won’t be able to join because I am helping a friend from Greece to finish his python assignment due tonight,low,high,0.17978365669063348,0.40557700802332197,0.41463933528604463
-Time to log your 7:30 AM medications,high,high,0.14740528125801247,0.10545794108591358,0.7471367776560739
-Unusual login attempt from Romania detected. Was this you?,high,high,0.1469344118243619,0.11441539113343904,0.7386501970421991
-Missed FaceTime Call from <NAME>,medium,medium,0.15243261610154807,0.6967240416545554,0.15084334224389664
-Your Mac will restart in 10 minutes to install critical security updates.,high,high,0.08381307426349371,0.07274178850235828,0.8434451372341478
-"Recruiter: Hi, I have an exciting opportunity that matches your profile. Are you open to a quick chat?",medium,medium,0.15559894011630532,0.7275517624535882,0.11684929743010651
-Your verification code is <CODE>. Valid for 10 minutes. Do not share this.,high,high,0.13151176302393505,0.12857693183040805,0.7399113051456568
-DevOps Bot: Production server CPU usage at 98%. Immediate action required.,high,high,0.20007790362095773,0.1973779255454941,0.6025441708335482
-Your iPhone storage is almost full (1.2 GB remaining). Manage storage.,medium,medium,0.17521564145996832,0.669997940281618,0.15478641825841383
-Sarah: Haha that meme you sent was so funny 😂,low,low,0.820435601970277,0.11076868402825482,0.06879571400146822
-We've limited your account due to unusual activity. Verify your identity to restore access.,high,high,0.1431132059657033,0.08819614550726346,0.7686906485270333
-Newsletter: Top 10 productivity tips for <CODE>.,low,high,0.3830199915186025,0.1805615883134634,0.43641842016793403
-Booking confirmation forwarded,medium,low,0.5085533708761498,0.2614461000540801,0.23000052906977017
-Bitcoin dropped 12% in the last hour. Your portfolio is down <AMOUNT>,medium,medium,0.11120157546260548,0.7891895388576587,0.09960888567973586
-<NAME>: Missed Voice Call,medium,medium,0.3299340520332574,0.4057480144505002,0.26431793351624244
-<NAME> sent you a Snap,low,low,0.8582019549786856,0.08797489822297613,0.05382314679833843
-call me after you finish w <NAME>,medium,medium,0.2237352762350709,0.5110872283810503,0.26517749538387875
-ceo_of_design: This is incredible work! DM me for a collaboration opportunity.,medium,medium,0.10160977336929627,0.8132128543733291,0.08517737225737455
-Weekly Summary: You beat last week's 500 calorie Move goal 2 times.,low,medium,0.2696588812846107,0.6143547513677052,0.11598636734768401
-"Suspicious transaction detected: <AMOUNT>,340.00 charge at an overseas merchant. Tap to review and freeze your card.",high,high,0.1279097361621981,0.17906953414336213,0.6930207296944397
-HR: Your timesheet for last week is still pending approval.,medium,medium,0.16356154044441365,0.7380309328278809,0.09840752672770542
-New job match: Senior ML Engineer at Google — 95% match. Apply before it closes.,medium,medium,0.13691779876699922,0.7696347943836298,0.093447406849371
-Your food order was cancelled by the restaurant. Tap to reorder or get a refund.,high,high,0.3708424832397583,0.16139383331946336,0.46776368344077823
-Thanks for ordering from Dunkin. You can adjust your tip,low,medium,0.22049280006589997,0.5805387656384626,0.19896843429563735
-<NAME> sent you a Snap,low,low,0.8582019549786856,0.08797489822297613,0.05382314679833843
-"SheBuilds at IE University is a live, in person buildathon on March 9, you arrive with an idea and in one hour you leave with a working prototype. March 9 at IE Tower - T<NUMBER> Buildathon starts at 18:30 Networking cocktail at 20:00 Register on IE Connects: <URL> *Registration does not mean acceptance, fill out the form with your idea, and we'll confirm your acceptance: <URL>",low,medium,0.23904594518465144,0.5002788762228761,0.2606751785924724
-Can you take a call?,medium,high,0.11855438551063276,0.36484781683728984,0.5165977976520775
-"Booking confirmed: Studio in Barcelona, Jun 12–18. Check-in instructions sent.",medium,medium,0.25283949654162846,0.5519791107872846,0.195181392671087
-Also I realized I don't have your address,medium,low,0.4899438815076385,0.3702398266934236,0.13981629179893781
-Work Group: The client meeting has been moved to 3 PM today. Please update your calendars.,high,high,0.19974235585447928,0.22924486508820371,0.571012779057317
-are u busy,low,medium,0.21071359817351054,0.6645207581877781,0.12476564363871122
-Your connection request to <NAME> was accepted.,low,low,0.8410093022085358,0.06439451920874904,0.09459617858271527
-"You've reached your daily step goal of 10,000 steps! 🎉",low,low,0.6997440909233442,0.19414622826700725,0.10610968080964849
-"Crypto Alert Bot: ETH just hit your target price of <AMOUNT>,000.",medium,low,0.4165494845150066,0.41292159313232557,0.17052892235266773
-Your order #ORD-<CODE> has shipped and will arrive Thursday.,medium,medium,0.3290444357010498,0.53550017625805,0.13545538804090018
-Your order #ORD-<CODE> has shipped and will arrive Thursday.,medium,medium,0.3290444357010498,0.53550017625805,0.13545538804090018
-Your trip receipt: <AMOUNT> to Downtown. Rate your driver.,low,low,0.7391979125158074,0.08673126534937715,0.17407082213481548
-<NAME>: Happy birthday!! 🎉🎂,low,low,0.840378479468581,0.08563139854515592,0.07399012198626301
-5 things to do this weekend in your city.,low,low,0.3832644371176096,0.2462299101011172,0.37050565278127323
-Dad: Just got to the airport. My flight lands at 6. Can you pick me up?,high,high,0.18193462374500843,0.26673472730027015,0.5513306489547215
-No worries I will send the recap of the meeting,low,medium,0.34695584347559616,0.5440172450977615,0.10902691142664235
-High heart rate detected: 160 BPM while you appeared to be inactive.,high,high,0.16674323353222004,0.11207595349427599,0.7211808129735039
-DevOps Bot: Production server CPU usage at 98%. Immediate action required.,high,high,0.20007790362095773,0.1973779255454941,0.6025441708335482
-Emergency Alert: Flash flood warning in your area until 9 PM.,high,high,0.09178679409560042,0.0893735534448863,0.8188396524595133
-Shared doc 'Sprint Plan' was updated by 3 teammates.,low,low,0.7314927266486956,0.14640114052538214,0.12210613282592228
-Meeting recording is now available: 'Team Standup — Mar 6'.,low,low,0.7710627162738535,0.1397218190189552,0.08921546470719131
-Low battery: 10% remaining. Connect to power.,high,high,0.2988671763423804,0.12325603765684978,0.5778767860007697
+DevOps Bot: Production server CPU usage at 98%. Immediate action required.,high,high,0.16121105808800093,0.16581215320683507,0.672976788705164
+Reminder! Your food will be ready for collection soon. Enjoy!,medium,medium,0.3559688378474233,0.5065875441080148,0.13744361804456204
+I am because in Spain “bareto” is just a diminutive for “bar”,low,medium,0.21037499652164293,0.4662073719879293,0.32341763149042774
+Can you send me the 500?,medium,medium,0.22036703736363752,0.45378071012618115,0.3258522525101813
+5 things to do this weekend in your city.,low,low,0.4741489861798473,0.20139419455905377,0.3244568192610989
+Time to log your 10:00 AM medications,high,high,0.17056780918719383,0.05871289526109763,0.7707192955517085
+Your card was used for a payment of <AMOUNT> at Zara Madrid. Not you? Freeze your card now.,high,medium,0.33176372198976023,0.34759757491072985,0.32063870309950987
+They HELLA insecure empty ahhhhh tables,low,low,0.46958848797272357,0.28220851835066346,0.24820299367661292
+<NAME> sent you a Snap,low,low,0.8505818074062254,0.09322713626176475,0.05619105633200982
+Your meeting with the dentist starts in 30 minutes.,high,high,0.14543421487309274,0.1776439961790421,0.6769217889478653
+Your trip receipt: <AMOUNT> to Downtown. Rate your driver.,low,low,0.6801874000694987,0.09979257014547536,0.2200200297850259
+I'm working on an assignment for my friend,low,low,0.5660460675736441,0.2781505417469054,0.15580339067945062
+Don't forget your daily meditation session.,low,low,0.71271968329826,0.1582084015745598,0.12907191512718016
+Low battery: 10% remaining. Connect to power.,high,high,0.2482699879085197,0.17229168667971526,0.5794383254117651
+Payment of <AMOUNT> to Netflix processed successfully.,low,low,0.5978460917580879,0.29358411952547186,0.10856978871644025
+This is not something that can wait — the client is requesting a response by 5 PM today.,high,high,0.1797729989432605,0.2677245500408002,0.5525024510159392
+See you tomorrow then!!!,low,low,0.565668477113307,0.27420935767336263,0.16012216521333036
+Time to log your 7:30 AM medications,high,high,0.19132284413002915,0.10171978681645023,0.7069573690535207
+Dependabot: Critical vulnerability found in your dependency (CVE-<CODE>-<CODE>).,high,high,0.11970046645400134,0.09433205889446324,0.7859674746515354
+Your Dasher is 2 minutes away!,high,high,0.09163699334503479,0.11764754136183843,0.7907154652931268
+"Recruiter: Hi, I have an exciting opportunity that matches your profile. Are you open to a quick chat?",medium,medium,0.15772551707810903,0.7320781101339557,0.11019637278793531
+<NAME> mentioned you in their story,medium,medium,0.424371063426815,0.4695495812868779,0.10607935528630717
+thanks for letting me know,low,medium,0.2355862254534601,0.5939691311315456,0.17044464341499416
+Your iPhone storage is almost full (1.2 GB remaining). Manage storage.,medium,medium,0.12233272346945322,0.7740482108321068,0.10361906569843993
+Time to log your 7:00 PM medications,high,high,0.13422113221661008,0.13759386345562447,0.7281850043277653
+But then you ned to add the story points,medium,low,0.48961005264013185,0.2565029278180795,0.2538870195417886
+Netflix: Your new invoice for <AMOUNT> is ready.,low,low,0.540534611045214,0.2735451203927526,0.1859202685620335
+Team: Great job on the presentation today everyone!,low,low,0.8084574379380881,0.10651178924710689,0.08503077281480488
+"You've reached your daily step goal of 10,000 steps! 🎉",low,low,0.7560111772329541,0.15444516711974882,0.08954365564729713
+Meeting recording is now available: 'Team Standup — Mar 6'.,low,low,0.7348257024534065,0.15645640556981144,0.10871789197678204
+LinkedIn: You have 3 new connection requests.,low,low,0.6686889089252185,0.22493160969418924,0.10637948138059228
+Good,low,low,0.46958848797272357,0.28220851835066346,0.24820299367661292
+I am not going man,medium,high,0.16729463160499797,0.12222061562068633,0.7104847527743157
+Missed call from <NAME>,medium,medium,0.15652034034132295,0.7488873974460384,0.09459226221263853
+"Booking confirmed: Studio in Barcelona, Jun 12–18. Check-in instructions sent.",medium,medium,0.1878406189253788,0.6885861947211304,0.12357318635349092
+Will keep everyone updated!,low,low,0.5283075658491289,0.2893320861692618,0.18236034798160938
+"Amber Alert: Black Toyota Camry, license plate XYZ-<CODE>. Last seen downtown.",high,high,0.1359319769429514,0.12367530461339585,0.7403927184436527
+Bro,low,low,0.46958848797272357,0.28220851835066346,0.24820299367661292
+New company should be onboarding right now!,medium,low,0.5670528886563218,0.18390479502265358,0.2490423163210247
+Your flight UA4421 to New York tomorrow has been cancelled. Click to rebook.,high,high,0.1779370988628822,0.06546006245632614,0.7566028386807917
+You haven't logged lunch yet. Stay on track!,low,low,0.820570557430358,0.09639227578866283,0.08303716678097912
+they will start at mmr 50 i think,low,medium,0.33034618038574737,0.4294595708352331,0.24019424877901957
+"<NAME>: Call me when you get this, it's important.",high,high,0.18581811633925963,0.24695154434811006,0.5672303393126303
+You spent <AMOUNT> at Zara. Remaining budget: <AMOUNT>.,low,low,0.6301187498077522,0.24930860083258463,0.12057264935966326
+You haven't logged lunch yet. Stay on track!,low,low,0.820570557430358,0.09639227578866283,0.08303716678097912
+Emergency Alert: Flash flood warning in your area until 9 PM.,high,high,0.0884972538068088,0.09217201993162247,0.8193307262615687
+ceo_of_design: This is incredible work! DM me for a collaboration opportunity.,medium,medium,0.11837686168948375,0.7396641947239331,0.1419589435865832
+<NAME>: Can you join a quick call? Something urgent came up.,high,high,0.14544458902304622,0.1663473668134136,0.6882080441635402
+Make sure to log your weight! Track your progress for this week,medium,low,0.4910033993013936,0.28507750725904635,0.22391909343956015
+Low battery: 10% remaining. Connect to power.,high,high,0.2482699879085197,0.17229168667971526,0.5794383254117651
+Meeting recording is now available: 'Team Standup — Mar 6'.,low,low,0.7348257024534065,0.15645640556981144,0.10871789197678204
+"Hey <NAME>, do you mind if we join ur grou for RL?",medium,medium,0.45786295919828013,0.46139132518627834,0.08074571561544165
+Your Mac will restart in 10 minutes to install critical security updates.,high,high,0.07478148586512355,0.07854109567787614,0.8466774184570003
+I need to sell one player,low,low,0.4789907131316725,0.25428922968562384,0.26672005718270375
+"Hey, are you coming to the party on Saturday?",low,low,0.5293916596714539,0.3508746087646806,0.11973373156386556
+Software Update Tonight: iOS 26.4 Beta 2 is available and will be installed later tonight.,medium,medium,0.1820666704474314,0.703191482631723,0.11474184692084548
+Your verification code is <CODE>. Valid for 10 minutes. Do not share this.,high,high,0.10366199702562456,0.12317438876896245,0.7731636142054129
+"Start winding down. When ready, begin sleep tracking and place you phone next to your bed.",low,low,0.47542523302942835,0.2741845535963089,0.2503902133742628
+Reminder Sign up for IE Family Weekend,medium,medium,0.3498611155246529,0.4599907981059672,0.19014808636937985
+"Booking confirmed: Studio in Barcelona, Jun 12–18. Check-in instructions sent.",medium,medium,0.1878406189253788,0.6885861947211304,0.12357318635349092
+Your direct debit for electricity bill of <AMOUNT> has been processed.,medium,medium,0.31341187864302944,0.4210873300432762,0.2655007913136944
+Not critical — just a nice-to-have if you get around to it this week.,low,high,0.21554041582249883,0.27762253988896796,0.5068370442885333
+Package delivered: left at front door at 2:14 PM.,medium,medium,0.11993387857413064,0.7413661017550646,0.13870001967080495
+Your meeting recap - Weekly meeting Exte,low,high,0.2816267512399253,0.30584304781979466,0.4125302009402801
+DevOps Bot: Production server CPU usage at 98%. Immediate action required.,high,high,0.16121105808800093,0.16581215320683507,0.672976788705164
+Alarm: Wake up — 6:30 AM,high,high,0.17980273073185718,0.0894644592801025,0.7307328099880402
+A new device logged into your Coinbase account. Not you? Secure your account now.,high,high,0.15551737537422938,0.09387498092143073,0.7506076437043399
+You have additional new messages,low,low,0.5166502582467145,0.34770475264834433,0.13564498910494116
+I was planning on relying on your expertise,low,low,0.6726528286351822,0.13866732882067723,0.18867984254414066
+Your verification code is <CODE>. Valid for 10 minutes. Do not share this.,high,high,0.10366199702562456,0.12317438876896245,0.7731636142054129
+35% OFF McDonald's promotion available,low,medium,0.39459626622552724,0.5182831120717086,0.08712062170276418
+Hey <NAME>!,low,low,0.8051566683275482,0.11748818304883034,0.07735514862362143
+Shared doc 'Sprint Plan' was updated by 3 teammates.,low,low,0.7192675257791102,0.17436916527541904,0.10636330894547069
+Friends Group: Anyone up for lunch tomorrow?,low,low,0.7033177286997161,0.1295584424455969,0.16712382885468693
+Your order #ORD-<CODE> has shipped and will arrive Thursday.,medium,medium,0.2730146827140406,0.5579041518098532,0.1690811654761062
+Reminder: Your passport expires in 30 days. Renew now to avoid travel disruptions.,medium,medium,0.16113129949804628,0.5574867495215565,0.2813819509803972
+when is our next workshop,low,medium,0.12854024925277985,0.5296907220438988,0.34176902870332126
+<NAME> shared a video,low,low,0.703942455258648,0.20431313797199888,0.09174440676935317
+Let me know if they do!,medium,medium,0.2256556533534657,0.5328994580834552,0.24144488856307908
+Suspicious transaction flagged: €<CODE>.00 at an unrecognised merchant. Tap to review.,high,high,0.1322139837149918,0.29240542522456775,0.5753805910604406
+Your Dasher is 2 minutes away!,high,high,0.09163699334503479,0.11764754136183843,0.7907154652931268
+"Crypto Alert Bot: ETH just hit your target price of <AMOUNT>,000.",medium,medium,0.2032174872879376,0.6267613195675856,0.17002119314447675
+Recurring payment of <AMOUNT> to Spotify failed. Update your payment method.,high,medium,0.33553984518498364,0.5572784131296737,0.1071817416853426
+Don't forget your daily meditation session.,low,low,0.71271968329826,0.1582084015745598,0.12907191512718016
+"Recruiter: Hi, I have an exciting opportunity that matches your profile. Are you open to a quick chat?",medium,medium,0.15772551707810903,0.7320781101339557,0.11019637278793531
+Time to log your 9:00 AM medications,high,high,0.17001205226602092,0.07399794464449731,0.7559900030894817
+China consumer inflation hits three-year high as producer deflation eases,low,low,0.6215150518629081,0.16436845747183507,0.21411649066525687
+"🚨🚨🚨ok guys this is important, for RL, he sent me an excel sheet for the group project, there are 3 groups of 7 and 3 group of 8. I’m gonna send a poll and we make the groups here and i'll fill in the excel sheet, groups have to be formed by march 18th",high,medium,0.3034522130408227,0.5880686585923537,0.10847912836682361
+"Crypto Alert Bot: ETH just hit your target price of <AMOUNT>,000.",medium,medium,0.2032174872879376,0.6267613195675856,0.17002119314447675
+Your meeting with the dentist starts in 30 minutes.,high,high,0.14543421487309274,0.1776439961790421,0.6769217889478653
+Your order #ORD-<CODE> has shipped and will arrive Thursday.,medium,medium,0.2730146827140406,0.5579041518098532,0.1690811654761062
+Alarm: Wake up — 6:30 AM,high,high,0.17980273073185718,0.0894644592801025,0.7307328099880402
+<NAME>: The server is down. I need your help ASAP.,high,high,0.16839421475759747,0.27239458473362027,0.5592112005087823
+Your card ending in <NUMBER> has been frozen as requested.,high,high,0.3693893164344229,0.14790377748193564,0.4827069060836416
+<NAME> closed their Move ring,low,low,0.7395584845113299,0.17242657830280786,0.08801493718586229
+Breaking: National emergency declared following severe storm system.,high,high,0.20683196878420151,0.10221460630265586,0.6909534249131425
+You're approaching your destination. Parking available nearby.,medium,medium,0.11888733839332857,0.8149052060291739,0.06620745557749758
+Family Group: Grandma is in the hospital. Please call when you can.,high,high,0.1787894808917679,0.35201959910086006,0.46919092000737206
+Family Group: Grandma is in the hospital. Please call when you can.,high,high,0.1787894808917679,0.35201959910086006,0.46919092000737206
+are u busy,low,medium,0.17475491814793936,0.7217460053576563,0.10349907649440433
+<NAME>: Can you join a quick call? Something urgent came up.,high,high,0.14544458902304622,0.1663473668134136,0.6882080441635402
+ceo_of_design: This is incredible work! DM me for a collaboration opportunity.,medium,medium,0.11837686168948375,0.7396641947239331,0.1419589435865832
+I can add them,low,low,0.3712232572679719,0.27378610188415486,0.3549906408478732
+Low battery: 10% remaining. Connect to power.,high,high,0.2482699879085197,0.17229168667971526,0.5794383254117651
+Also I realized I don't have your address,medium,low,0.4384530528612981,0.38507505150642807,0.17647189563227392
+IT Security: Mandatory security training due by Friday. Failure to complete may result in account suspension.,high,high,0.1959750207288666,0.1691185837535352,0.6349063955175982
+Someone replied to your comment in r/MachineLearning.,low,low,0.8164993659900273,0.09283018176003617,0.09067045224993642
+Family Group: Grandma is in the hospital. Please call when you can.,high,high,0.1787894808917679,0.35201959910086006,0.46919092000737206
+Your connection request to <NAME> was accepted.,low,low,0.838272904595551,0.057139301477574074,0.10458779392687481
+New job match: Senior ML Engineer at Google — 95% match. Apply before it closes.,medium,medium,0.15954978517494542,0.721135419099876,0.1193147957251786
+"the ORYON thing is Wednesday at 12, i think i said today",medium,medium,0.20385058609699325,0.5811642998421718,0.21498511406083498
+Breaking: National emergency declared following severe storm system.,high,high,0.20683196878420151,0.10221460630265586,0.6909534249131425

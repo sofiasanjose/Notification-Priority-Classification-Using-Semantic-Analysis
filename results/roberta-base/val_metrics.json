@@ -1,7 +1,7 @@
 {
   "model": "roberta-base",
-  "best_val_macro_f1": 0.951,
-  "test_macro_f1": 0.8913,
+  "best_val_macro_f1": 0.9091,
+  "test_macro_f1": 0.8672,
   "epochs_run": 5,
   "hyperparams": {
     "model_name": "roberta-base",
@@ -17,33 +17,33 @@
   "history": [
     {
       "epoch": 1,
-      "train_loss": 1.0781,
-      "val_loss": 0.999,
-      "val_macro_f1": 0.4978
+      "train_loss": 1.0823,
+      "val_loss": 0.9871,
+      "val_macro_f1": 0.3982
     },
     {
       "epoch": 2,
-      "train_loss": 0.7388,
-      "val_loss": 0.3877,
-      "val_macro_f1": 0.8567
+      "train_loss": 0.7705,
+      "val_loss": 0.5536,
+      "val_macro_f1": 0.8139
     },
     {
       "epoch": 3,
-      "train_loss": 0.3165,
-      "val_loss": 0.2527,
-      "val_macro_f1": 0.9222
+      "train_loss": 0.3023,
+      "val_loss": 0.3882,
+      "val_macro_f1": 0.9091
     },
     {
       "epoch": 4,
-      "train_loss": 0.1669,
-      "val_loss": 0.255,
-      "val_macro_f1": 0.9138
+      "train_loss": 0.1726,
+      "val_loss": 0.4721,
+      "val_macro_f1": 0.8816
     },
     {
       "epoch": 5,
-      "train_loss": 0.1186,
-      "val_loss": 0.2382,
-      "val_macro_f1": 0.951
+      "train_loss": 0.0986,
+      "val_loss": 0.4641,
+      "val_macro_f1": 0.9001
     }
   ]
 }

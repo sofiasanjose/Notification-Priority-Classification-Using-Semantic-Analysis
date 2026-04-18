@@ -1,9 +1,9 @@
 {
   "model": "TF-IDF + Logistic Regression",
-  "val_macro_f1": 0.7559,
-  "val_accuracy": 0.7615,
-  "test_macro_f1": 0.8185,
-  "test_accuracy": 0.8257,
+  "val_macro_f1": 0.8262,
+  "val_accuracy": 0.8304,
+  "test_macro_f1": 0.8527,
+  "test_accuracy": 0.8571,
   "hyperparams": {
     "vectorizer": "TfidfVectorizer(ngram_range=(1,2), max_features=500, sublinear_tf=True)",
     "classifier": "LogisticRegression(C=1.0, class_weight=balanced, max_iter=1000)"
